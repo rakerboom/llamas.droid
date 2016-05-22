@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Llamas</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="home_base">Home Base</string>
+    <string name="fabricator">Fabricator</string>
+    <string name="vbuck_cap">V-Buck Cap</string>
+</resources>

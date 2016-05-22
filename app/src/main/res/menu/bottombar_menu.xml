@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="ca.akerboom.llamas.MainActivity">
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:icon="@drawable/settings"
+        android:title="@string/home_base"/>
+    <item
+        android:id="@+id/bottomBarItemTwo"
+        android:icon="@drawable/alarm"
+        android:title="@string/fabricator"/>
+    <item
+        android:id="@+id/bottomBarItemThree"
+        android:icon="@drawable/euro"
+        android:title="@string/vbuck_cap"/>
+</menu>
